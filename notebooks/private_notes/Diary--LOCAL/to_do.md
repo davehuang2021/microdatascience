@@ -1,1 +1,2 @@
-
+- [ ] NBIS scanpy 教程的完整 note，和可执行文件，按照 [[habits2design_easy_to_use_pipeline]]规则来格式化，可能要拆解成好几个子任务来完成
+- [ ] rc3 TCGA, GTEx, SLE本地化
