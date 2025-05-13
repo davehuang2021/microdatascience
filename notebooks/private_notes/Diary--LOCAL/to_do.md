@@ -20,6 +20,7 @@
 > 需要能够定期完成
 
 - [ ] obsidian 库本地化
+- [ ] 思考这些库如何在本地和服务器上可以正常访问和运行，写一个path撰写规则：obsidian和jupyter notebook的路径语法不同，对文件名的规定也不同
 - [ ] #GTDToolbox NBIS scanpy 教程的完整 note，和可执行文件，按照 [[habits2design_easy_to_use_pipeline]]规则来格式化，可能要拆解成好几个子任务来完成
 - [ ] #GTDRoutine rc3 TCGA, GTEx, SLE本地化 
 
