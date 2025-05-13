@@ -10,6 +10,11 @@
 - #GTDToolbox: 每日创造性工作，积累自己的技能树
 - #GTDLearning: 每日脑力活动，增加知识的
 
+## ref and notebook tag
+
+- #ref 表示这个文件或下面的链接是ref，而非本地的文件
+- #notebook 表示是个自己加工过的脚本
+
 
 ## 目前的项目
 > 需要能够定期完成
