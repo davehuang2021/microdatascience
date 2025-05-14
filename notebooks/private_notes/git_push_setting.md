@@ -31,3 +31,15 @@
 # 推送更新到远程地址
 
 ```
+
+
+## 2025-5-15
+
+经过测试，可以通过obsidian较好地推送到远程更新中。
+
+```
+git add -A; git commit -m "obsidian"
+
+git push
+
+```
