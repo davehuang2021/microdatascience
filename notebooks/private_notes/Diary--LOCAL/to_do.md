@@ -22,7 +22,13 @@
 - [ ] obsidian 库本地化
 - [ ] 思考这些库如何在本地和服务器上可以正常访问和运行，写一个path撰写规则：obsidian和jupyter notebook的路径语法不同，对文件名的规定也不同
 - [ ] #GTDToolbox NBIS scanpy 教程的完整 note，和可执行文件，按照 [[habits2design_easy_to_use_pipeline]]规则来格式化，可能要拆解成好几个子任务来完成
-- [ ] #GTDRoutine rc3 TCGA, GTEx, SLE本地化 
+  - [ ] 提取数据的 5 - 10% 作分析以优化效率，这个必须执行。可以有效加快迭代速度
+- [ ] #GTDRoutine rc3 TCGA, GTEx, SLE本地化
+
+### 需要思考并长期积累的知识
+
+- [ ] 单细胞的marker基因有哪些？如何与流式细胞术打通？
+- [ ] 转录因子是容易检测的biomarker吗？
 
 ## 长期项目
 
