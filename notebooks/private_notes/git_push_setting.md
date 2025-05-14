@@ -43,3 +43,17 @@ git add -A; git commit -m "obsidian"
 git push
 
 ```
+
+
+```
+git clone https://github.com/davehuang2021/RNAseq4dave.git
+
+git remote set-url origin git@github.com:davehuang2021/RNAseq4dave.git
+
+# make some edit
+
+git add -A; git commit -m "mbpa"
+
+git push
+
+```
