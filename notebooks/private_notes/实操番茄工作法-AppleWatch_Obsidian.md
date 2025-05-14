@@ -4,6 +4,7 @@
 - 计时工具：是用**apple watch**的计时器，定义**25min**和**5min**
 - 任务列表（电脑/iPad/github）：obsidian to do和项目notebook的to-dos
 - **额外任务清单**（随身的日记本和笔）：遇到打断后，暂时扔到这里，避免番茄被打断
+- 可以用airpods听白噪音来集中注意力
 
 ### 基本原则
 > ref: 番茄系统的说明见[这里](https://learning.tsinghua.edu.cn/__local/1/6F/79/3370ACF7FB448FD12F628E17847_7D76B8D4_49DF8.pdf)
