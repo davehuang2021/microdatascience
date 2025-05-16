@@ -43,7 +43,7 @@
 
 - AIDD
 - deep learning
-- siRNA machine learning design
+- [ ] [[siRNA machine learning design]]: 至少写个大纲出来吧
 
 ## 长期目标
 
