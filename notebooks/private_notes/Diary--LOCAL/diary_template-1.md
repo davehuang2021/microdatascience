@@ -37,7 +37,15 @@ n 个月的中长期任务，没办法赶工，已经要拆解为里程碑，及
 - [ ] 前一天的任务梳理
 - [ ] 长期任务，阶段性放在模版中
   - [ ] #RNAseq4daveTask scanpy pipeline得做起来了
+  - [ ] #RNAseq4daveTask 需要一个整合性一体化 task
+    - [x] 长期的任务，写到模版里
     - [ ] #NBIS 全下载后跑一遍
+    - [ ] #NBIS 把note写入到 ipynb 中
+	    - [ ] [[scanpy_00_data_input]]
+	    - [x] [[scanpy_01_qc]]
+	    - [x] [[scanpy_02_dimred]]
+	    - [x] [[scanpy_03_integration]]
+	    - [ ] 
     - [ ] #NBIS Quality Control
 	    - [ ] [GSE149689是实例数据来源](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149689)，注意格式是mtx形式 
 	    - [ ] 前一个文件较大，找个小一点的例子，更多数据见[[scanpy_00_data_input]]，size都比较大
@@ -47,6 +55,8 @@ n 个月的中长期任务，没办法赶工，已经要拆解为里程碑，及
     - [ ] #NBIS Clustering and annotation
     - [ ] #NBIS pseudobulk
     - [ ] 布置每天 scanpy #GTDRoutine 打包任务
+	    - [ ] 把之前的数据翻出来看看，先从找备份硬盘的数据开始
+    
 ---
 ## 番茄记录
 
