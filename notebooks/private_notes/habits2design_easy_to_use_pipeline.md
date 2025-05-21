@@ -1,6 +1,8 @@
 ## 基本操作
 - 使用 conda env
 	- conda env 使用jupyterlab，通过配置~/.jupyter/jupyter_lab_config.py文件来修改端口，避免和vpn软件产生冲突
+	- 一个快速的anaconda env操作见这里：[[quick mac os anaconda env]]
+	- 
 - 尽可能简化原则
 - jupyter notebook and html来保存版本快照
 
