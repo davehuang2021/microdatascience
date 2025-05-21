@@ -1,5 +1,6 @@
 ## 基本操作
 - 使用 conda env
+	- conda env 使用jupyterlab，通过配置~/.jupyter/jupyter_lab_config.py文件来修改端口，避免和vpn软件产生冲突
 - 尽可能简化原则
 - jupyter notebook and html来保存版本快照
 
@@ -22,6 +23,7 @@ sc.logging.print_versions()
 ```
 
 ```R
+### R语言的代码实现
 
 ```
 

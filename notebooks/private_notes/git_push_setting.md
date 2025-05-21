@@ -32,7 +32,12 @@
 
 ```
 
+## 2025-5-21
 
+- ~/.jupyter/jupyter_lab_config.py配置修改，避免和VPN的端口冲突影响网络使用
+- 保存data文件夹的文件结构[[data-dir_files]]，兼顾轻量化和文件同步
+- 保存文件的md5，方便同步数据double check[[data-dir_files-md5]]
+- 使用的命令见[[data-dir_files-cmd.sh]]
 ## 2025-5-15
 
 经过测试，可以通过obsidian较好地推送到远程更新中。
