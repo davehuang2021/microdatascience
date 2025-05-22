@@ -37,7 +37,7 @@ n 个月的中长期任务，没办法赶工，已经要拆解为里程碑，及
 - [ ] 前一天的任务梳理
 - [ ] 长期任务，阶段性放在模版中
   - [ ] #RNAseq4daveTask scanpy pipeline得做起来了
-  - [ ] #RNAseq4daveTask 需要一个整合性一体化 task
+  - [ ] #RNAseq4daveTask 需要一个整合性一体化 task: [[integrated_scanpy]]
     - [x] 长期的任务，写到模版里
     - [ ] #NBIS 全下载后跑一遍
     - [ ] #NBIS 把note写入到 ipynb 中
