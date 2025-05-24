@@ -18,8 +18,8 @@
   119  git remote -v
   120  git push
 
-  121  git remote set-url origin git@github.com:davehuang2021/*.git
-# 这一步很重要是要指定使用 ssh 远程地址
+	  121  git remote set-url origin git@github.com:davehuang2021/*.git
+# 这一步很重要是要指定使用 ssh 远程地址: 操作之后就可以正常的git push了
 
   122  git remote -v
 # 验证远程地址

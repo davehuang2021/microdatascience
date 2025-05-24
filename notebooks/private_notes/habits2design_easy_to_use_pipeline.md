@@ -5,6 +5,12 @@
 	- 
 - 尽可能简化原则
 - jupyter notebook and html来保存版本快照
+	- [ ] 以下代码需要测试 
+```bash
+### 以下代码需要测试
+jupyter nbconvert --output-dir archive --to html --no-input report.ipynb  # 纯净输出
+git tag v1.0.0 $(git hash-object report.ipynb)     # 精确版本标记
+```
 
 ## 基于模版构建pipeline文件，规则内置其中
 
