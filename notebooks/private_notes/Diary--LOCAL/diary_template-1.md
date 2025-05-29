@@ -38,6 +38,9 @@ n 个月的中长期任务，没办法赶工，已经要拆解为里程碑，及
 - [ ] obsidian 系统升级
 	- [ ] ChatGPT API: 付费项目，尚未找到入口
 - [ ] 长期任务，阶段性放在模版中
+	- [ ] #GTDRoutine 持续下载数据
+		- [ ] [[public_data-index]] HCA数据
+		- [ ] [[public_data-index]] HPA所有数据
 	- [ ] NBIS RNAseq 做起来吧：[[NBIS_Workshop_on_RNAseq--readme]] (放在工作目录下了)
 	- [ ] #RNAseq4daveTask scanpy pipeline得做起来了
 	- [ ] #RNAseq4daveTask 需要一个整合性一体化 task: [[integrated_scanpy]]
