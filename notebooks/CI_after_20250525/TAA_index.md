@@ -6,31 +6,21 @@
 
 ### Format Gene
 #### ITGB6 
-#AUTOIMMUNE #TUMOR #LC, #LUAD, #LUSC
+TAG: #AUTOIMMUNE #TUMOR #LC, #LUAD, #LUSC
 
-
-| gene      | TAG | Uniprot | ENSG | Ranking | Clinical DEV staging |
-| --------- | --- | ------- | ---- | ------- | -------------------- |
-| [[TIGB6]] |     |         |      |         |                      |
-| [[CDH17]] |     |         |      |         |                      |
 
 ### Gene list
-### [[CDH17]]
-#### LRRC15 
-TAG: #AUTOIMMUNE, #fibroblast
 
-#### FAP
-
-#### OSMR
-
-#### SEZ6
-
-#### CLDN18.2 
-#STAD, #PAAD, #TUMOR,
-
-
-
-
-
+| gene         | TAG                                      | Uniprot | ENSG | Ranking | Clinical DEV staging | Product (1-2 cases) | For ADC | For TCE |
+| ------------ | ---------------------------------------- | ------- | ---- | ------- | -------------------- | ------------------- | ------- | ------- |
+| [[CDH3]]     | #TUMOR #LC #ESCC #ADC                    |         |      |         |                      |                     | 1       |         |
+| [[CDH17]]    | #TUMOR #CRC #STAD #ADC                   |         |      | 5       |                      |                     | 1       | 1       |
+| [[CLDN18.2]] | #STAD, #PAAD, #TUMOR                     |         |      | 5       |                      |                     |         |         |
+| [[FAP]]      | #AUTOIMMUNE                              |         |      | 2       |                      |                     |         |         |
+| [[LRRC15]]   |                                          |         |      | 2       |                      |                     |         |         |
+| [[OSMR]]     | #AUTOIMMUNE                              |         |      | 5       |                      |                     |         |         |
+| [[SEZ6]]     |                                          |         |      | 5       |                      |                     |         |         |
+| [[TIGB6]]    | #AUTOIMMUNE #TUMOR #LC #LUAD #LUSC #ESCC |         |      |         |                      |                     |         |         |
+| [[DLL3]]     |                                          |         |      |         |                      |                     |         |         |
 
 
