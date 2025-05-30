@@ -7,7 +7,7 @@ CRISPR Therapeutics和Sirius Therapeutics联手出击，发力siRNA治疗血栓�
 **Sirius Therapeutics** 是一家专注于肿瘤学和免疫治疗的生物技术公司，致力于开发靶向创新机制的小分子和生物制剂。其研发策略侧重于高选择性靶点和联合疗法。
 
 
-#### **核心管线及靶标** #deepseek
+#### **核心管线及靶标** #BYdeepseek
 
 
 1. **ST-001**
