@@ -13,7 +13,7 @@ TAG: #AUTOIMMUNE #TUMOR #LC, #LUAD, #LUSC
 
 | gene         | TAG                                      | Uniprot | ENSG | Ranking (5是最高等级，一般是临床上证明了安全性和有效性的靶标) | Clinical DEV staging | Product (1-2 cases) | For ADC | For TCE |
 | ------------ | ---------------------------------------- | ------- | ---- | ------------------------------------ | -------------------- | ------------------- | ------- | ------- |
-| [[CDH3]]     | #TUMOR #LC #ESCC #ADC                    |         |      |                                      |                      |                     | 1       |         |
+| [[CDH3]]     | #TUMOR #LC <br>#ESCC #ADC                |         |      |                                      |                      |                     | 1       |         |
 | [[CDH17]]    | #TUMOR #CRC #STAD #ADC                   |         |      | 5                                    |                      |                     | 1       | 1       |
 | [[CLDN18.2]] | #STAD, #PAAD, #TUMOR                     |         |      | 5                                    |                      |                     |         |         |
 | [[FAP]]      | #AUTOIMMUNE                              |         |      | 2                                    |                      |                     |         |         |

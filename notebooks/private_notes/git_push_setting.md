@@ -33,6 +33,20 @@
 ```
 
 ## 2025-5-21
+### 使用 GitHub CLI 自动生成 Token 并登录后使用private repositories
+
+**重要信息：私有的repositories是免费账户也可以使用的**：这笔订阅费用大可以生下来。
+
+```bash
+brew install gh
+
+gh auth login
+### 交互式验证方式，使用 gh 生成的验证码在网页端验证
+
+```
+> 整个过程其实很简单。但不知道过一年多，github会不会再改。。。
+
+## 2025-5-21
 
 [git ignore 全局配置](https://orianna-zzo.github.io/sci-tech/2018-01/mac%E4%B8%ADgit%E5%BF%BD%E7%95%A5.ds_store%E6%96%87%E4%BB%B6/)
 ```
