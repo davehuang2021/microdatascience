@@ -47,6 +47,10 @@ gh auth login
 ```
 > 整个过程其实很简单。但不知道过一年多，github会不会再改。。。
 
+### git hub 新启动 repository 一般流程
+
+
+
 ## 2025-5-21
 
 [git ignore 全局配置](https://orianna-zzo.github.io/sci-tech/2018-01/mac%E4%B8%ADgit%E5%BF%BD%E7%95%A5.ds_store%E6%96%87%E4%BB%B6/)
